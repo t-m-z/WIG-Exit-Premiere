@@ -1,0 +1,54 @@
+-------------------
+cartridge Das Geheimnis der Premiere started (openWIG r428)
+-------------------
+21:27:0|0.0|0.0|115.0|1.0|:: EVNT: Das Geheimnis der Premiere.OnStart
+21:27:0|0.0|0.0|115.0|1.0|:: CALL: MessageBox - Bevor es losgeht - brauchst Du noch etwas Hilfe?
+21:27:0|0.0|0.0|115.0|1.0|:: EEND: Das Geheimnis der Premiere.OnStart
+21:27:3|0.0|0.0|115.0|1.0|:: BTTN: Button2 pressed
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Schlosstheater.Active is set to false
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Schlosstheater.OriginalPoint is set to ZonePoint(0.0,0.0,115.0)
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Schlosstheater.Points is set to se.krka.kahlua.vm.LuaTableImpl@60377eb8
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Schlosstheater.Active is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Schlosstheater.Visible is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Seitenflur.Active is set to false
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Seitenflur.OriginalPoint is set to ZonePoint(0.0,2.7549138197110063E-20,115.0)
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Seitenflur.Points is set to se.krka.kahlua.vm.LuaTableImpl@6408f666
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Seitenflur.Active is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Seitenflur.Visible is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Buehne.Active is set to false
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Buehne.OriginalPoint is set to ZonePoint(6.76041103275E-4,4.132370729603798E-20,115.0)
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Buehne.Points is set to se.krka.kahlua.vm.LuaTableImpl@210a7483
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Buehne.Active is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Buehne.Visible is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Gardarobe.Active is set to false
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Gardarobe.OriginalPoint is set to ZonePoint(2.2534703442500002E-4,2.2495578493650082E-4,115.0)
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Gardarobe.Points is set to se.krka.kahlua.vm.LuaTableImpl@4b784599
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Gardarobe.Active is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Gardarobe.Visible is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Theatersaal.Active is set to false
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Theatersaal.OriginalPoint is set to ZonePoint(4.5069406885000005E-4,2.7549138197110063E-20,115.0)
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Theatersaal.Points is set to se.krka.kahlua.vm.LuaTableImpl@106130f0
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Theatersaal.Active is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Theatersaal.Visible is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Foyer.Active is set to false
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Foyer.OriginalPoint is set to ZonePoint(2.2534703442500002E-4,1.3774569098501762E-20,115.0)
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Foyer.Points is set to se.krka.kahlua.vm.LuaTableImpl@33f95f5c
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Foyer.Active is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: PROP: Foyer.Visible is set to true
+21:27:3|0.0|0.0|115.0|1.0|:: CALL: ShowScreen(0) 
+21:27:3|0.0|0.0|115.0|1.0|:: BTTN END
+21:27:3|0.0|0.0|115.0|1.0|:: BTTN: (cancel) pressed
+21:27:3|0.0|0.0|115.0|1.0|:: BTTN END
+21:27:4|0.0|0.0|115.0|1.0|:: ZONE: proximity Gardarobe
+21:27:4|0.0|0.0|115.0|1.0|:: ZONE: inside Seitenflur
+21:27:4|0.0|0.0|115.0|1.0|:: ZONE: proximity Foyer
+21:27:4|0.0|0.0|115.0|1.0|:: ZONE: proximity Theatersaal
+21:27:4|0.0|0.0|115.0|1.0|:: ZONE: inside Schlosstheater
+21:27:4|0.0|0.0|115.0|1.0|:: EVNT: Schlosstheater.OnEnter
+21:27:4|0.0|0.0|115.0|1.0|:: PROP: Gardarobe.Visible is set to false
+21:27:4|0.0|0.0|115.0|1.0|:: PROP: Gardarobe.Active is set to false
+21:27:4|0.0|0.0|115.0|1.0|:: PROP: Seitenflur.Active is set to false
+21:27:4|0.0|0.0|115.0|1.0|:: PROP: Seitenflur.Visible is set to false
+21:27:4|0.0|0.0|115.0|1.0|:: PROP: Theatersaal.Active is set to false
+21:27:4|0.0|0.0|115.0|1.0|:: PROP: Theatersaal.Visible is set to false
+21:27:4|0.0|0.0|115.0|1.0|:: EEND: Schlosstheater.OnEnter
